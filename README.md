@@ -19,14 +19,11 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhudevv&label=Profile%20views&color=0e75b6&style=flat" alt="prabhudevv" /> </p>
 
 Experienced Software Engineer in the Banking and Insurance industry and I am a flexible person, willing to learn new technologies. strong skills and ability in writing efficient and reusable code.
-
 <!-- <h3>🛠 Tech Stack</h3>
-
 - 💻 &nbsp; PHP | React
 - 🌐 &nbsp; HTML | CSS | JavaScript | JQuery | Bootstrap
 - 🛢 &nbsp; SQL Server | MySQL | Postgres | Oracle
 - 🔧 &nbsp; Git | Postman  -->
-
 <br/>
 
 <h3 align="left">Programming Languages:</h3>
