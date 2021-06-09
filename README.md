@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhudevv&label=Profile%20views&color=0e75b6&style=flat" alt="prabhudevv" /> </p>
 
-Experienced Software Engineer in the Banking and Insurance industry and I am a flexible person, willing to learn new technologies. Skilled in ReactJS, HTML, CSS, SCSS, Bootstrap, WordPress, JavaScript, jQuery, AJAX, PHP, MVC Framework, PostgreSQL, Git, Photoshop, and mobile responsive web development as well as strong skills and ability in writing efficient and reusable code.
+Experienced Software Engineer in the Banking and Insurance industry and I am a flexible person, willing to learn new technologies. strong skills and ability in writing efficient and reusable code.
 
 <!-- <h3>🛠 Tech Stack</h3>
 
