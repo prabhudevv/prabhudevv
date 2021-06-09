@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 Experienced Software Engineer in the Banking and Insurance industry and I am a flexible person, willing to learn new technologies. Skilled in ReactJS, HTML, CSS, SCSS, Bootstrap, WordPress, JavaScript, jQuery, AJAX, PHP, MVC Framework, PostgreSQL, Git, Photoshop, and mobile responsive web development as well as strong skills and ability in writing efficient and reusable code.
 
-<h3>🛠 Tech Stack</h3>
+<!-- <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; PHP | React
 - 🌐 &nbsp; HTML | CSS | JavaScript | JQuery | Bootstrap
 - 🛢 &nbsp; SQL Server | MySQL | Postgres | Oracle
-- 🔧 &nbsp; Git | Postman 
+- 🔧 &nbsp; Git | Postman  -->
 
 <br/>
 
@@ -43,4 +43,4 @@ Experienced Software Engineer in the Banking and Insurance industry and I am a f
 <a href="https://twitter.com/Prabhudev_V"><img alt="Twitter" src="https://img.shields.io/badge/Twitter--white?style=social&logo=twitter"></a>
 </p>
 
-⭐️ From [Prabhudev V](https://github.com/prabhudevv)
+<!-- ⭐️ From [Prabhudev V](https://github.com/prabhudevv) -->
