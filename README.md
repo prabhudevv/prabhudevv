@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Master of Computer Application.
-- 🌱 &nbsp; Connect me to know more.
+Experienced Software Engineer in the Banking and Insurance industry and I am a flexible person, willing to learn new technologies. Skilled in ReactJS, HTML, CSS, SCSS, Bootstrap, WordPress, JavaScript, jQuery, AJAX, PHP, MVC Framework, PostgreSQL, Git, Photoshop, and mobile responsive web development as well as strong skills and ability in writing efficient and reusable code.
 
 <h3>🛠 Tech Stack</h3>
 
