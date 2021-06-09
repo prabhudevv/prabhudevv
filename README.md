@@ -38,7 +38,6 @@ Experienced Software Engineer in the Banking and Insurance industry and I am a f
 <a href="https://www.linkedin.com/in/prabhudev-vatnal-49690ba6/"><img alt="LinkedIn" src="https://img.shields.io/badge/Prabhudev--brightgreen?style=flat-square&logo=linkedin"></a>
 <!-- <a href="https://www.facebook.com"><img alt="Facebook" src="https://img.shields.io/badge/shailesh-facebook-blue?style=flat&logo=facebook"></a> -->
 <a href="mailto:prabhudev.vatnal55@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email--blue?style=flat-square&logo=gmail"></a>
-  
 <a href="https://www.facebook.com/prabhudevvatnal/"><img alt="Email" src="https://img.shields.io/badge/Facebook--blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.instagram.com/prabhudevv"><img alt="Email" src="https://img.shields.io/badge/LinkedIn--blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/Prabhudev_V"><img alt="Email" src="https://img.shields.io/badge/Twitter--blue?style=flat-square&logo=twitter"></a>
