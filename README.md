@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhudevv&label=Profile%20views&color=0e75b6&style=flat" alt="prabhudevv" /> </p>
 
-Experienced Software Engineer in the Banking and Insurance industry and I am a flexible person, willing to learn new technologies. strong skills and ability in writing efficient and reusable code.
+Software Engineer. Skilled in User Interface Design with UI frameworks - Bootstrap, MaterializeCSS & Custom CSS, CSS3, SASS, Front-end development with React, Redux thunk, JavaScript, jQuery. Backend development with MySQL, PostgreSQL, PHP, MVC Frameworks.
 <!-- <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; PHP | React
 - 🌐 &nbsp; HTML | CSS | JavaScript | JQuery | Bootstrap
