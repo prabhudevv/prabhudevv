@@ -14,7 +14,7 @@
 <a href="mailto:prabhudev.vatnal55@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email--white?style=social&logo=gmail"></a>
 <a href="https://www.facebook.com/prabhudevvatnal/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook--white?style=social&logo=facebook"></a>
 <a href="https://www.instagram.com/prabhudevv"><img alt="Instagram" src="https://img.shields.io/badge/Instagram--white?style=social&logo=instagram"></a>
-<a href="https://twitter.com/Prabhudev_V"><img alt="Twitter" src="https://img.shields.io/twitter/follow/Prabhudev_V?label=Prabhudev_V&style=social"></a>
+<a href="https://twitter.com/Prabhudev_V"><img alt="Twitter" src="https://img.shields.io/twitter/follow/Prabhudev_V?label=Followers&style=social"></a>
   <a href="https://github.com/prabhudevv/prabhudevv"><img alt="Medium" src="https://img.shields.io/github/followers/prabhudevv?style=social"></a>
 <a href="https://medium.com/@prabhudevv"><img alt="Medium" src="https://img.shields.io/badge/Medium--white?style=social&logo=Medium"></a>
   
