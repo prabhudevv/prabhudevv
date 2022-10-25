@@ -8,10 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prabhudev_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabhudev_v" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prabhudev-vatnal-49690ba6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhudev-vatnal-49690ba6" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10650867/prabhudev-vatnal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="prabhudev-vatnal" height="30" width="40" /></a>
-<a href="https://fb.com/prabhudevvatnal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prabhudevvatnal" height="30" width="40" /></a>
-<a href="https://instagram.com/prabhudevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabhudevv" height="30" width="40" /></a>
-<a href="https://medium.com/@prabhudevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prabhudevv" height="30" width="40" /></a>
+<a href="https://twitter.com/prabhudev_v" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabhudev_v" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prabhudev-vatnal-49690ba6" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhudev-vatnal-49690ba6" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10650867/prabhudev-vatnal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="prabhudev-vatnal" height="30" width="40" /></a>
+<a href="https://fb.com/prabhudevvatnal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prabhudevvatnal" height="30" width="40" /></a>
+<a href="https://instagram.com/prabhudevv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabhudevv" height="30" width="40" /></a>
+<a href="https://medium.com/@prabhudevv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prabhudevv" height="30" width="40" /></a>
 </p>
