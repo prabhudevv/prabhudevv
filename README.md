@@ -17,7 +17,7 @@
 <a href="https://twitter.com/Prabhudev_V"><img alt="Twitter" src="https://img.shields.io/twitter/follow/Prabhudev_V?label=Followers&style=social"></a>
   <a href="https://github.com/prabhudevv/prabhudevv"><img alt="Medium" src="https://img.shields.io/github/followers/prabhudevv?style=social"></a>
 <a href="https://medium.com/@prabhudevv"><img alt="Medium" src="https://img.shields.io/badge/Medium--white?style=social&logo=Medium"></a>
-  <a href="https://wa.me/8904317204/?text=Hi Prabhudev" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp--white?style=social&logo=Whatsapp"></a>
+  <a href="https://wa.me/+918904317204/?text=Hi Prabhudev" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp--white?style=social&logo=Whatsapp"></a>
   
   
 </p>
